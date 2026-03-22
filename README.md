@@ -1,9 +1,11 @@
+<!-- BLOCK 1 - Header wave (MANISH SINGH) - YE RAKHO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:06B6D4&text=MANISH%20SINGH&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=twinkling&desc=Build%20%C2%B7%20Research%20%C2%B7%20Ship%20%C2%B7%20Repeat&descAlignY=58&descSize=20&descColor=22D3EE" />
 </div>
 
+<!-- BLOCK 2 - Typing animation - YE RAKHO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=VyapaarSathi+%E2%80%94+Hindi-first+Voice+AI+%28Devfolio+4.7%2F5%29;Arbor+%E2%80%94+Social+Commerce+where+Products+Tell+Stories;MMAPR+%E2%80%94+86%25+Autonomous+Bug+Fix+on+QuixBugs;DTU+CSE+%7C+AI+%C2%B7+Full-Stack+%C2%B7+Research" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=VyapaarSathi+%E2%80%94+Hindi-first+Voice+AI+%28Devfolio+4.7%2F5%29;Arbor+%E2%80%94+Social+Commerce+where+Products+Tell+Stories;MMAPR+%E2%80%94+86%25+Autonomous+Bug+Fix+on+QuixBugs;Currently+building+an+EV+Charging+Station+Web+App" />
 </div>
 
 <div align="center">
