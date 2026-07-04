@@ -44,7 +44,7 @@
 <div align="center">
 
   <a href="https://github.com/manikng/Electric-upi"><img src="https://img.shields.io/badge/📂-Source_Code-0c4a6e?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
-  <a href="https://electric-upi-nine.vercel.app/"><img src="https://img.shields.io/badge/🚀-Live_Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://electric-upi-nine.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-Live_Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   <a href="https://github.com/manikng/Electric-upi#readme"><img src="https://img.shields.io/badge/📖-README-1e293b?style=for-the-badge&logo=readme&logoColor=white" alt="README" /></a>
 
 </div>
@@ -106,6 +106,41 @@
 
 <br/>
 
+<!-- ════════════════════════════════════════════════════════════════
+     LIVE DEMOS
+     ════════════════════════════════════════════════════════════════ -->
+## <img src="https://img.shields.io/badge/🌐-LIVE_DEMOS-10b981?style=flat-square" alt="Live Demos" /> Live Demos
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://electric-upi-nine.vercel.app/">
+          <img src="https://img.shields.io/badge/_Electric_UPI-Live-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Electric UPI" />
+        </a>
+        <br/>
+        <sub><i>Peer-to-Peer EV Charging for India</i></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://hack2skill-gdsc-arbor.vercel.app/">
+          <img src="https://img.shields.io/badge/_Arbor-Live-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Arbor" />
+        </a>
+        <br/>
+        <sub><i>Social Commerce — Products Tell Stories</i></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://devfolio.co/projects/vyapar-saathi-c136">
+          <img src="https://img.shields.io/badge/_VyapaarSathi_AI-Live-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="VyapaarSathi AI" />
+        </a>
+        <br/>
+        <sub><i>Hindi-first Voice AI · Devfolio 4.7/5</i></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 --- 
 
 <!-- ════════════════════════════════════════════════════════════════
@@ -144,7 +179,7 @@
 
 </div>
 
-<br/>
+
 
 --- 
 
