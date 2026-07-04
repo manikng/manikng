@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="200" viewBox="0 0 520 200" fill="none">
+  <defs>
+    <linearGradient id="bg-vys" x1="0" y1="0" x2="520" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="0.6" stop-color="#5b21b6"/>
+      <stop offset="1" stop-color="#c026d3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="520" height="200" rx="16" fill="url(#bg-vys)"/>
+
+  <!-- Decorative dots -->
+  <g fill="#ffffff" fill-opacity="0.05">
+    <circle cx="470" cy="30" r="3"/>
+    <circle cx="490" cy="50" r="2"/>
+    <circle cx="450" cy="55" r="2"/>
+    <circle cx="480" cy="170" r="3"/>
+    <circle cx="500" cy="150" r="2"/>
+  </g>
+
+  <!-- Voice wave icon -->
+  <g transform="translate(28,28)" fill="none" stroke="#e9d5ff" stroke-width="2.5" stroke-linecap="round">
+    <line x1="4" y1="14" x2="4" y2="14"/>
+    <line x1="12" y1="8" x2="12" y2="20"/>
+    <line x1="20" y1="4" x2="20" y2="24"/>
+    <line x1="28" y1="10" x2="28" y2="18"/>
+    <line x1="36" y1="6" x2="36" y2="22"/>
+    <line x1="44" y1="12" x2="44" y2="16"/>
+  </g>
+
+  <!-- Title -->
+  <text x="84" y="48" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="22" font-weight="700" fill="#f5f3ff">VyapaarSathi-Ai</text>
+
+  <!-- Tagline -->
+  <text x="28" y="86" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" fill="#ddd6fe">Hindi-first Voice AI for local commerce</text>
+
+  <!-- Devfolio score chip -->
+  <g transform="translate(28,108)">
+    <rect width="110" height="28" rx="14" fill="#fbbf24" fill-opacity="0.2" stroke="#fbbf24" stroke-width="1"/>
+    <text x="14" y="19" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="12" font-weight="700" fill="#fef3c7">★ Devfolio 4.7/5</text>
+  </g>
+
+  <!-- Tech badges -->
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="11" font-weight="600">
+    <g transform="translate(150,108)">
+      <rect width="70" height="28" rx="14" fill="#1e1b4b" stroke="#6d28d9" stroke-width="1"/>
+      <circle cx="14" cy="14" r="5" fill="#3b82f6"/>
+      <text x="26" y="18" fill="#e9d5ff">Python</text>
+    </g>
+    <g transform="translate(230,108)">
+      <rect width="90" height="28" rx="14" fill="#1e1b4b" stroke="#6d28d9" stroke-width="1"/>
+      <circle cx="14" cy="14" r="5" fill="#22c55e"/>
+      <text x="26" y="18" fill="#e9d5ff">LangGraph</text>
+    </g>
+    <g transform="translate(330,108)">
+      <rect width="80" height="28" rx="14" fill="#1e1b4b" stroke="#6d28d9" stroke-width="1"/>
+      <circle cx="14" cy="14" r="5" fill="#f97316"/>
+      <text x="26" y="18" fill="#e9d5ff">Voice AI</text>
+    </g>
+  </g>
+
+  <!-- Repo link -->
+  <text x="28" y="172" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="11" fill="#a78bfa">github.com/manikng/VyapaarSathi-Ai</text>
+
+  <!-- Corner accent -->
+  <path d="M520 0 L520 60 L460 0 Z" fill="#ffffff" fill-opacity="0.05"/>
+</svg>
